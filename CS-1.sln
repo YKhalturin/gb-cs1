@@ -29,6 +29,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork2", "HomeWork2", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework2", "homework2\homework2.csproj", "{8E69DD55-94A3-4194-B89E-B4D4018B2280}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework3", "Homework3", "{C7EB56A6-AD32-43FF-B1CF-9D4B74EC5604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework3", "homework3\homework3.csproj", "{134C0C6B-5AD7-4E29-A1DB-C362C8700C89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,10 @@ Global
 		{8E69DD55-94A3-4194-B89E-B4D4018B2280}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E69DD55-94A3-4194-B89E-B4D4018B2280}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E69DD55-94A3-4194-B89E-B4D4018B2280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134C0C6B-5AD7-4E29-A1DB-C362C8700C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134C0C6B-5AD7-4E29-A1DB-C362C8700C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134C0C6B-5AD7-4E29-A1DB-C362C8700C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134C0C6B-5AD7-4E29-A1DB-C362C8700C89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +98,7 @@ Global
 		{A64441DC-8E92-4EB9-877B-EA4FB7743728} = {8DEA1CD8-3438-4157-80D1-3C96DF257F71}
 		{2E4006AB-D5BF-4A61-940A-B542086E5708} = {8DEA1CD8-3438-4157-80D1-3C96DF257F71}
 		{8E69DD55-94A3-4194-B89E-B4D4018B2280} = {4F23390C-EF1A-43BB-A1D2-A559239E3982}
+		{134C0C6B-5AD7-4E29-A1DB-C362C8700C89} = {C7EB56A6-AD32-43FF-B1CF-9D4B74EC5604}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F7A59BC-4957-4170-91BA-13E1E75DC502}
